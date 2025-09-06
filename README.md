@@ -2,9 +2,11 @@
 *Market analysis and forecasting of video game sales to support Ice’s 2017 marketing campaign strategy.*  
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
-![pandas](https://img.shields.io/badge/pandas-EDA-green?logo=pandas)  
+![pandas](https://img.shields.io/badge/pandas-EDA-green?logo=pandas)
+![numpy](https://img.shields.io/badge/numpy-Numerical-blue?logo=numpy) 
 ![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-orange)  
-![scipy](https://img.shields.io/badge/scipy-Stats-lightblue?logo=scipy)  
+![scipy](https://img.shields.io/badge/scipy-Stats-lightblue?logo=scipy)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 
 ---
